@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dayson Tai
 - 🌱 Things that I am learning currently:
-- HTML, CSS, Bootstrap, Javascript, jQuery, Node.js
+- HTML, CSS, Bootstrap, Javascript, jQuery, Node.js, React
 
 <!-- - 
 - 👀 I’m interested in ...
